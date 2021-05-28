@@ -13,3 +13,7 @@ def multiply(x,y):
 # Divide implementation
 def divide(x,y):
     pass
+
+# Cube IMplementation
+def cube(x):
+	return x*x*x
